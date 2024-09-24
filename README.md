@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-As a former mechanical engineer with extensive experience in manufacturing and automotive industries, I've transitioned into the realm of software development. I noticed the need for efficient IT systems during my previous roles, which inspired me to co-found a software company alongside my brother.
-
+As a former mechanical engineer with extensive experience in manufacturing and automotive industries.
 Current Projects:
 
 **RMICS - Repairs & Maintenance Integrated Collaboration System:** RMICS is a comprehensive system designed to streamline and enhance repair and maintenance processes. It facilitates seamless collaboration among team members, improving overall efficiency. With RMICS, we aim to revolutionize how repairs and maintenance tasks are managed in various industries. This system is specifically designed for multi-location multi-group repairs & maintenance operations.
